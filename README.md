@@ -1,5 +1,5 @@
 <p align='center'>
-<img height="300" src="https://raw.githubusercontent.com/y-vas/y-vas/master/working.gif"/>
+  <img height="200" src="https://raw.githubusercontent.com/y-vas/y-vas/master/working.gif"/>
 </p>
 
 <h1 align='center'>Hi! 👋🏾</h1>
